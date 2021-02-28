@@ -17,7 +17,7 @@ I've done the web app assuming that the workers would use it from their laptops/
 
 * **What happens on page open/refresh?**
   * Fetching the productlist, caching it and showing it/taking this data from the cache if possible
-  * Fetching the availability, caching it and showing it for each product using their IDs and changin the "availability box" according (gray = fetching/undefined, green = available, orange = less than 10 products, red = out of stock).
+  * Fetching the availability, caching it and showing it for each product using their IDs and changing the "availability box" according (gray = fetching/undefined, green = available, orange = less than 10 products, red = out of stock).
 
 * **Features**
   * All the data is easily accessable and visible
